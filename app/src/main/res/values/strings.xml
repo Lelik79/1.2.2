@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1.2.2</string>
+    <string name="view_foto">Просмотр фото</string>
+    <string name="back">Назад</string>
+    <string name="Forward">Вперед</string>
+    <string name="url">Http://myfile.org/79</string>
+    <string name="url1">Адрес страницы</string>
+</resources>
